@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MonnyPA
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++, HTML-CSS-Bootstrap
+- 🌱 I’m currently learning C++, HTML-CSS-Bootstrap, Java
 - 📫 How to reach me via e-mail : monnybram@outlook.com
 
 <!---
