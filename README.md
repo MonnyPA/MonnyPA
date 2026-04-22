@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @MonnyPA
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++, HTML-CSS-Bootstrap, Java
-- 🌱 I can build dynamic web apps with Laravel Blade, complete with relational databases, CRUD functionality, and secure authentication.
+- 🔐 Authentication (Login/Register)
+- 👥 Role & Permission (Admin, Manager, Employee)
+- 📊 Dashboard Analytics (Chart.js)
+- 📁 Project Management (CRUD)
+- 📤 Export Excel
 - 📫 How to reach me via e-mail : monnybram@outlook.com
 
 <!---
